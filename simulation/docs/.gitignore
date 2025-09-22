@@ -1,0 +1,8 @@
+old/
+build/
+
+# Docs autosummary
+_autosummary/
+
+!*.png
+!*.jpg
